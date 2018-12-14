@@ -1,4 +1,4 @@
-![Logo](./sparc_logo.png =250x)
+![Logo](./sparc_logo.png =750x)
 
 ## Introduction
 
@@ -8,27 +8,38 @@
 ## Principal Investigator
 
 1. [Dr. Phanish Suryanarayana](http://www.phanish.ce.gatech.edu)
+
  Picture
  Some intro
  
 2. [Dr. John Pask](https://pls.llnl.gov/people/staff-bios/physics/pask-j)
+
  Picture
  Some intro
  
 3. [Dr. Edmond Chow](https://www.cc.gatech.edu/~echow/)
+
  Picture
  Some intro
  
 4. [Dr. Andrew J. Medford](https://www.medford.chbe.gatech.edu/)
+
  Picture
  Some intro
 
 5. [Dr. Duen Horng (Polo) Chau](https://www.cc.gatech.edu/~dchau/)
+
  Picture
  Some intro
  
 ## Affiliated Software Packages
+* SPARC
 
+* [ElectroLens](https://github.com/ray38/ElectroLens)
+
+* SPARC-X
+
+* [AMP](https://amp.readthedocs.io/en/latest/)
 
 ## List of Affiliated Publications
 * [Paper 1](https://arxiv.org/abs/1603.04339)
