@@ -1,4 +1,4 @@
-![Logo](./sparc_logo.png =750x)
+![Logo](./sparc_logo.png | width=100)
 
 ## Introduction
 
