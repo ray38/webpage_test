@@ -1,4 +1,4 @@
-[Logo](./sparc_logo.png)
+![Logo](./sparc_logo.png)
 
 ## Welcome to GitHub Pages
 
