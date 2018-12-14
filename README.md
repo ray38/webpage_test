@@ -1,4 +1,4 @@
-![Logo](./sparc_logo.png)
+![Logo](./SPARC_logo_banner.png)
 
 ## Introduction
 
