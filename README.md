@@ -1,12 +1,11 @@
 ![Logo](./sparc_logo.png)
 
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/ray38/webpage_test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+“SPARC-X is a project to develop a density functional theory (DFT) code to conduct Quantum simulations at extreme scale and achieve ab-initio reactive dynamics from first principles. The project will leverage the SPARC finite-difference DFT engine in conjunction with new developments in numerical methods, machine learning, and high-performance computing to produce a software suite capable of operating on emerging exascale machines to perform DFT and molecular dynamics calculations at unprecedented levels of theory for massive numbers of atoms (~10^6) and long timescales (~1 ns). The project combines diverse expertise from the fields of solid-state physics, numerical methods, high-performance computing, catalysis, machine learning, and visualization, and is supported by the DOE Computational Chemical Sciences program (Grant No. ####).”
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
