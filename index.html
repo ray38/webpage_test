@@ -35,7 +35,7 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll-trigger" href="#page-top">SPARC-X</a>
+      <a class="navbar-brand js-scroll-trigger" href="#page-top" style="font-family:courier;">SPARC-X</a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         Menu
         <i class="fas fa-bars"></i>
@@ -60,7 +60,7 @@
   </nav>
 
   <!-- Header -->
-  <header class="masthead">
+  <header class="masthead bg-dark">
     <div class="container">
       <div class="intro-text">
 
@@ -75,7 +75,8 @@
         <div class="col-lg-12 text-center">
           <h2 class="section-heading text-uppercase">Introduction</h2>
           <h3 class="section-subheading text-muted">
-          SPARC-X is a project to develop a density functional theory (DFT) code to conduct Quantum simulations at extreme scale and achieve ab-initio reactive dynamics from first principles. The project will leverage the SPARC finite-difference DFT engine in conjunction with new developments in numerical methods, machine learning, and high-performance computing to produce a software suite capable of operating on emerging exascale machines to perform DFT and molecular dynamics calculations at unprecedented levels of theory for massive numbers of atoms (~10^6) and long timescales (~1 ns). The project combines diverse expertise from the fields of solid-state physics, numerical methods, high-performance computing, catalysis, machine learning, and visualization, and is supported by the DOE Computational Chemical Sciences program (Grant No. ####).
+          The objective of this project is to develop SPARC-X: an open source computational framework for performing Kohn-Sham Density Functional Theory (DFT) calculations that scale linearly with system size, leveraging petascale/exascale parallel computers to study chemical phenomena at length and time scales previously accessible only by empirical approaches — e.g., 100,000 atoms for a few picoseconds using semilocal functionals or 1,000 atoms for a few nanoseconds using hybrid functionals. To do so, SPARC-X will exploit a recent breakthrough in electronic structure methodologies: systematically improvable, strictly local, orthonormal, discontinuous real-space bases that efficiently and systematically capture the local chemistry of the system [1–4]. With further adaptation using new machine-learning techniques [5] and the use of the massively parallel Spectral Quadrature (SQ) method, the algorithmic complexity and prefactor associated with DFT calculations involving semilocal as well as hybrid functionals will be dramatically reduced.
+          The capability provided by SPARC-X has applications in a wide variety of chemical sciences, including reactive interfaces where large length- and/or long time-scales are needed and traditional force fields fail. This is particularly important in dynamic catalysis, where bond breaking and formation must be understood in detail. This project will develop, test, and apply the SPARC-X framework to understand the photocatalytic properties of TiO2 systems with and without Au co-catalysts for nitrogen transformations. This integrated development and application strategy will ensure that SPARC-X is a robust, efficient, and scalable software package for quantum simulations on current petascale and future exascale computing resources and enable fully ab initio investigation of key catalytic systems previously beyond reach.
         </h3>
         </div>
       </div>
@@ -434,7 +435,7 @@
         </div>
         <div class="col-sm-4">
           <div class="team-member">
-            <img class="mx-auto rounded-circle" src="img/team/2.jpg" alt="">
+            <img class="mx-auto rounded-circle" src="img/team/abhiraj.jpg" alt="">
             <h4>Abhiraj Sharma</h4>
             <p class="text-muted">Developer</p>
             <ul class="list-inline social-buttons">
